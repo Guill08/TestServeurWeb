@@ -2,7 +2,7 @@ import com.sun.net.httpserver.HttpServer;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
-
+//http://localhost:8001/test?name=Test
 public class Main {
     public static void main(String[] args) {
         try {
